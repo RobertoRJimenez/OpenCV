@@ -1,0 +1,6 @@
+Must download python3 and Opencv function library
+
+In terminal 
+workon cv
+
+python3 filename.py
